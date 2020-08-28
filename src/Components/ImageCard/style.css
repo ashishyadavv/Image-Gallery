@@ -1,0 +1,10 @@
+.image-card{
+    width: 300px;
+    height: 250px;
+    border-radius: 6px;
+    object-fit: cover;
+    margin: 10px;
+}
+.image-card:hover{
+    transition: .3s ease;
+}
